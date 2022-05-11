@@ -16,6 +16,6 @@ redirect_from:
 * **Uozumi R**, Yada S, Kawaguchi A. Patient recruitment strategies for adaptive enrichment designs with time-to-event endpoints. BMC Medical Research Methodology. 19(1):159, 2019. DOI: 10.1186/s12874-019-0800-2. 
 
 2017
-*	**Uozumi R**, Hamada C. Interim decision-making strategies in adaptive designs for population selection using time-to-event endpoints. Journal of Biopharmaceutical Statistics. 27(1), 84-100, 2017. DOI: 10.1080/10543406.2016.1148714. [Article](https://www.tandfonline.com/doi/abs/10.1080/10543406.2016.1148714?journalCode=lbps20) 
+*	**Uozumi R**, Hamada C. Interim decision-making strategies in adaptive designs for population selection using time-to-event endpoints. Journal of Biopharmaceutical Statistics. 27(1), 84-100, 2017. DOI: 10.1080/10543406.2016.1148714. [---Article---](https://www.tandfonline.com/doi/abs/10.1080/10543406.2016.1148714?journalCode=lbps20).
 
 * **Uozumi R**, Hamada C. Adaptive seamless design for establishing pharmacokinetic and efficacy equivalence in developing biosimilars. Therapeutic Innovation & Regulatory Science. 51(6), 761-769, 2017. DOI: 10.1177/2168479017706526. 
