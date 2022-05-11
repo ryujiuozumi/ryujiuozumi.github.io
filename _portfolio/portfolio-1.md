@@ -1,78 +1,96 @@
 ---
 layout: archive
-title: "Publications (JP)"
+title: "著書"
 permalink: /portfolio/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-2021
-*	Yada S, **Uozumi R**. An early-phase clinical trial design in oncology with generalization ability. 42nd Annual Conference of the International Society for Clinical Biostatistics, July 19, 2021, Virtual. [Poster]
+*	大橋靖雄，浜田知久馬，**魚住龍史**．生存時間解析 応用編 –SASによる生物統計．東京大学出版会，2016．
+*	浜田知久馬，**魚住龍史** (監修)，臨床評価研究会 基礎解析分科会 (執筆)．新版 実用SAS生物統計ハンドブック．サイエンティスト社，2021．
 
-*	Fujii H, Kitazume Y, **Uozumi R**, Iihara H, Takahashi M, Arai T, Yoshizawa T, Murachi Y, Sato Y, Mikami T, Hashiguchi K, Takahashi K, Fujita Y, Yamazaki T, Hosokawa Y, Morozumi I, Tsuchiya M, Yokoyama A, Hashimoto H, Yamaguchi M. Association between capecitabine efficacy and proton pump inhibitors in patients with stage II-III colorectal cancer: A retrospective muticenter study. European Society for Medical Oncology Congress 2021, September 16-21, 2021, Virtual. [Poster]
+---
+layout: archive
+title: "論文"
+permalink: /portfolio/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
-* Kawazoe H, Egami S, Hashimoto H, **Uozumi R**, Arami T, Sakiyama N, Ohe Y, Nakada H, Aomori T, Ikemura S, Fukunaga K, Yamaguchi M, Nakamura T. Peripheral blood count predicts immune-related adverse events in non-small cell lung cancer patients treated with nivolumab: a multicenter retrospective study. Annual Meeting of the Multinational Association of Supportive Care in Cancer (MASCC)/the International Society of Oral Oncology (ISOO) 2021, June 24-26, 2021, Virtual. [Oral]
+*	武井典子，石川正夫，石井孝典，高田康二，堀信介，浅井啓太，**魚住龍史**，別所和久．特別養護老人ホームにおけるオーラルケアマネジメントの口腔環境の改善と肺炎発症率抑制に関する研究．老年歯科医学，30(3), 308-317, 2015. DOI: 10.11259/jsg.30.308. 
+*	永見慎輔，八木直美，**魚住龍史**，山縣誉志江，田中信吾，伊藤圭子，平位知久，延原浩，森田智視，高橋良輔，栢下淳，越久仁敬．物性調整した食品別の嚥下動態の相違と適切な嚥下調整食選択への応用．嚥下医学，5(2), 206-213, 2016. 
+* 秋山直美，**魚住龍史**，秋山智弥，林田賢史，肥田圭介．急性期病院における高頻度インシデントに関連する要因～薬剤・ドレーン・転倒転落に関する観察研究～．日本医療・病院管理学会誌，58(3), 71-81, 2021. DOI: 10.11303/jsha.58.71.
+	
+---
+layout: archive
+title: "総説"
+permalink: /portfolio/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
-*	Kawazoe H, Mori N, Ido S, **Uozumi R**, Tsuneoka K, Takeuchi A, Matsuo M, Yamauchi M, Yakushijin Y, Yoshimura M, Jibiki A, Yokoyama Y, Suzuki S, Nakamura T. Liquid formulation of gemcitabine increases the frequency of venous pain: Clinical outcome and suggestions for countermeasure. Annual Meeting of the Multinational Association of Supportive Care in Cancer (MASCC)/the International Society of Oral Oncology (ISOO) 2021, June 24-26, 2021, Virtual. [Poster]
+*	矢田真城，**魚住龍史**，田栗正隆．反事実モデルに基づく直接効果と間接効果の推定．計量生物学, 40(2), 81-116, 2020. DOI: 10.5691/jjb.40.81.
 
-*	Yada S, **Uozumi R**. Let's enjoy the computer vision using SAS Viya! SAS Global Forum 2021, May, 2021, Virtual. [Oral]
+---
+layout: archive
+title: "解説記事"
+permalink: /portfolio/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
-2020
-*	**Uozumi R**, Yada S, Kawaguchi A. How to effectively recruit patients for adaptive enrichment clinical trials. 41st Annual Conference of the International Society for Clinical Biostatistics, Aug, 2020, Virtual. [Poster]
+*	**魚住龍史**，森田智視．検定と信頼区間 (1) 考え方，検定，信頼区間．呼吸，34(6), 584-588, 2015. 
+*	**魚住龍史**，森田智視．検定と信頼区間 (2) 同等性・非劣性，多重性．呼吸，34(7), 675-682, 2015.
+*	**魚住龍史**，森田智視．サンプルサイズ設計．呼吸，34(8), 788-792, 2015.
+*	**魚住龍史**，森田智視．生存時間解析における三種の神器．呼吸，34(11), 1083-1089, 2015.
+*	**魚住龍史**．有名論文から統計の基礎を学ぶ：COURAGE試験における生存時間解析の側面． Coronary Intervention, 13(3), 38-43, 2017. 
+*	**魚住龍史**．医薬統計学を駆使した医薬品開発の最前線．理大科学フォーラム, 36(6), 60-61, 2019. 
+*	**魚住龍史**．臨床試験における症例数設計．整形外科, 71(6), 589-593, 2020. 
+*	**魚住龍史**．分子標的薬の検証的臨床試験におけるアダプティブデザインの活用．Precision Medicine, 3(13), 1219-1223, 2020. 
+*	**魚住龍史**．分子標的薬の開発における生物統計学の役割．Precision Medicine, 4(1), 85-89, 2021. 
 
-*	Yada S, **Uozumi R**. An adaptive design of phase I/II clinical trials for precision medicine using oncogene information. 41st Annual Conference of the International Society for Clinical Biostatistics, Aug 25, 2020, Virtual. [Oral]
+---
+layout: archive
+title: "SASユーザー総会論文集"
+permalink: /portfolio/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
-*	Tominari M, **Uozumi R**, Becker C, Kinoshita A. Reminiscence therapy using virtual reality technology affects cognitive function and morale of elderly with dementia. Alzheimer’s Association International Conference (AAIC) 2020, July 30, 2020, Virtual Event. [Poster]
-
-*	Saito S, Kato ET, Kato T, Shiomi H, **Uozumi R**, Shimizu Y, Kimura T, Nin K. A Survey of Weight Gain Perception in Patients with Chronic Heart Failure. 23rd East Asian Forum of Nursing Scholars (EAFONS 2020) conference, January 11, 2020, Chiang Mai, Thailand. [Poster]
-
-2019
-* **Uozumi R**. How to Establish Pharmacokinetic and Efficacy Equivalence in Biosimilar Clinical Trials: The Use of Adaptive Seamless Strategies. 2019 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop, Sep, 2019, Washington, DC. [Oral]
-
-*	**Uozumi R**, Yada S. Blinded sample size re-estimation with survival data. International Society Biopharmaceutical Statistics, Aug, 2019, Kyoto. [Oral]
-
-* **Uozumi R**. Restricted mean survival times for the one-sample problem. 40th Annual Conference of the International Society for Clinical Biostatistics, Jul, 2019, Leuven. [Oral]
-
-*	Yada S, **Uozumi R**. A Bayesian simulation considering late-onset outcomes for phase I/II designs of anticancer drug combinations. 40th Annual Conference of the International Society for Clinical Biostatistics, Jul, 2019, Leuven. [Oral]
-
-*	Kawazoe H, Murakami A, **Uozumi R**, Yamashita M, Kobayashi-Taguchi K, Kusakabe E, Yamasawa H, Yakushijin Y, Nakamura T, Kamei Y. A four-drug combination of olanzapine, aprepitant, palonosetron, and dexamethasone for nausea and vomiting in patients with breast cancer receiving anthracycline: A retrospective observational study. Annual Meeting of the Multinational Association of Supportive Care in Cancer (MASCC)/the International Society of Oral Oncology (ISOO) 2019, June 21, 2019, San Francisco. [Poster]
-
-*	Takada M, Yoshimura M, Kawaguchi K, Kotake T, **Uozumi R**, Kataoka M, Koyama T, Kato H, Yoshibayashi H, Suwa H, Tsuji W, Yamashiro H, Kataoka T, Ishiguro H, Tokumasu R, Honda M, Yamashita R, Yonezawa A, Himoto Y, Onishi N, Parida L, Morita S, Toi M. A multicenter phase Ib/II study for evaluating safety and efficacy of Nivolumab in combination with radiation therapy in patients with HER2-negative metastatic breast cancer (KBCRN-B-002 trial). 2019 San Antonio Breast Cancer Symposium, December 12, 2019, San Antonio, TX. [Poster]
-
-*	Kawaguchi K, Takada M, Kotake T, Yoshimura M, **Uozumi R**, Kataoka M, Koyama T, Tokumasu R, Honda M, Yamashita R, Yonezawa A, Himoto Y, Onishi N, Kato H, Yoshibayashi H, Suwa H, Tsuji W, Yamashiro H, Kataoka T, Ishiguro H, Parida L, Morita S, Toi M. Alteration of the tumor immune microenvironment signatures by nivolumab combined with radiation therapy for patients with metastatic breast cancer (Translational Research of the KBCRN-B-002 trial). 2019 San Antonio Breast Cancer Symposium, December 13, 2019, San Antonio, TX. [Poster]
-
-2018
-* **Uozumi R**, Yada S. Evaluation of regional efficacy equivalence in developing biosimilars. Joint Statistical Meetings 2018, Jul, 2018, Vancouver, BC. [Oral]
-
-* **Uozumi R**, Yada S, Maruo K, Kawaguchi A. Formulation of Confidence Intervals for Difference Between Two Binomial Proportions from Logistic Regression. Eastern North American Region 2018 Spring Meeting, Mar, 2018, Atlanta, GA. [Oral]
-
-*	Akamatsu S, Kubota M, **Uozumi R**, Narita S, Takahashi M, Mitsuzuka K, Hatakeyama S, Sakurai T, Kawamura S, Ishidoya S, Hoshi S, Ishida M, Mizuno K, Ogura K, Goto T, Terada N, Kobayashi T, Yamasaki T, Inoue T, Tsuchiya N, Ohyama C, Arai Y, Habuchi T, Morita S, Ogawa O. Development and validation of a novel prognostic model for predicting overall survival in treatment naïve castration-sensitive metastatic prostate cancer. American Urological Association 2018, May, 2018, San Francisco. [Poster]
-
-* Kono Y, Hattori Y, Nishino K, **Uozumi R**, Itoh S, Inoue T, Kumagai T, Morita S, Imamura F, Satouchi M. A phase I/II study of weekly nab-paclitaxel plus cisplatin in chemotherapy-naïve patients with advanced non-small-cell lung cancer. The European Lung Cancer Congress 2018, Apr, 2018, Geneva, Switzerland. [Poster] 
-
-2017
-* **Uozumi R**, Hamada C. Planning adaptive population selection design with survival endpoints. 38th Annual Conference of the International Society for Clinical Biostatistics, Jul, 2017, Vigo. [Poster]
-
-* Suzuki E, Kawaguchi K, Sugimoto M, Pu F, **Uozumi R**, Yamaguchi A, Nishie M, Tsuda M, Kotake T, Morita S, Toi M. Gene expression profile of peripheral blood mononuclear cells in breast cancer patients may be contribute to the identification and the immunological classification of breast cancer patients by blood test. American Association for Clinical Research Annual Meeting 2017, Apr, 2017, Washington, DC. [Poster]
-
-* Kojima T, Kasai H, Tsushima T, Hara H, Mori Y, Ishihara R, Kato K, Hironaka S, Mukai K, Kikuchi O, Enomoto K, Tada H, **Uozumi R**, Kawaguchi A, Muto M. A phase II study of TAS-102 for advanced/recurrent esophageal cancer refractory/intolerable to standard therapies. European Society for Medical Oncology 2017 Congress, Sep, 2017, Madrid, Spain. [Poster]
-
-* Nagami S, Oku Y, Yagi N, Sato S, **Uozumi R**, Morita S, Yamagata Y, Kayashita J, Tanimura K, Sato S, Takahashi R, Fukunaga S, Muro S. Breathing-swallowing discoordination associated with frequent exacerbations of COPD. European Respiratory Society International Congress 2017, Sep, 2017, Milan, Italy. [Poster]
-
-2016
-* **Uozumi R**, Hamada C. Adaptive seamless design for development of biosimilars. XXVIIIth International Biometric Conference, Jul, 2016, Victoria. [Poster]
-
-* Yamashita Y, **Uozumi R**, Esato M, Chun YH, Wada H, Hasegawa K, Ogawa H, Abe M, Morita S, Akao M. Efficacy and Safety of Direct Oral Anticoagulants in Patients With Atrial Fibrillation in the Real-world: The Fushimi AF Registry. American Heart Association Scientific Sessions 2016, Nov, 2016, New Orleans, Louisiana. [Poster]
-
-2015
-* **Uozumi R**, Hamada C. Interim decision-making strategies in adaptive designs for population selection using semi-competing risks data. ISBS/DIA Symposium on Biopharmaceutical Statistics, Jun-Jul, 2015, Beijing. [Oral]
-
-2014
-* **Uozumi R**, Hamada C. Interim decision-making strategies in adaptive designs for population selection considering post-progression survival magnitudes. XXVIIth International Biometric Conference, Jul, 2014, Florence. [Oral]
-
-2013
-* **Uozumi R**, Hamada C. Interim decision making strategies in adaptive designs for subpopulation selection. 34th Annual Conference of the International Society for Clinical Biostatistics, Aug, 2013, Munich. [Poster]
-
-2012
-* **Uozumi R**, Hamada C. An adaptive subpopulation selection design using time-to-event endpoints. XXVIth International Biometric Conference, Aug, 2012, Kobe. [Poster]
+*	魚住龍史, 水澤純基, 浜田知久馬. 生存時間解析におけるLakatosの例数設計法の有用性の評価. SASユーザー総会論文集 2009, 143-152. 
+*	魚住龍史, 浜田知久馬. SG (Statistical Graphics) Procedures によるKaplan-Meierプロットの作成. SASユーザー総会論文集 2011, 185-199. 
+*	魚住龍史, 浜田知久馬. がん臨床試験における腫瘍縮小効果の検討に有用なグラフの作成 -SGPLOTプロシジャの最新機能を活用-. SASユーザー総会論文集 2012, 151-165. 
+*	魚住龍史, 浜田知久馬. RAND関数による擬似乱数の生成. SASユーザー総会論文集 2013, 325-333. 
+*	魚住龍史. 擬似ミクロデータによるパック旅行費支出と世帯情報の関連の検討. SASユーザー総会論文集 2013, 507-514. 
+*	魚住龍史. LS-Means再考 -GLMとPLMによるモデル推定後のプロセス-. SASユーザー総会論文集 2014, 449-463. 
+*	吉田早織, 魚住龍史. 線形モデルにおけるCLASSステーとメントの機能. SASユーザー総会論文集 2014, 474-487. 
+*	飯塚政人, 魚住龍史, 浜田知久馬. FREQプロシジャによる割合の差の信頼区間 -V9.4における機能拡張と性能評価-. SASユーザー総会論文集 2014, 527-538. 
+*	魚住龍史. Let’s匿名データ分析: パック旅行費支出と世帯情報の関連の検討. SASユーザー総会論文集 2014, 21-31. 
+*	魚住龍史, 浜田知久馬. 相関のある生存時間データを対象としたアダプティブ集団選択デザインにおける中間解析方法. 統計関連学会連合大会報告集 2014, 18. 
+*	魚住龍史. SASによる匿名データ分析: パック旅行費支出と世帯情報の関連の検討. 公的統計のミクロデータ等を用いた研究の新展開 報告要旨集 2014, 97-103. 
+*	魚住龍史, 飯塚政人, 浜田知久馬. 非劣性試験における割合の差の信頼区間と例数設計. SASユーザー総会論文集 2015, 422-431. 
+*	吉田早織, 平井隆幸, 叶健, 魚住龍史. ODS POWERPOINTの活用: SASからMicrosoft PowerPointへのエクスポート. SASユーザー総会論文集 2015, 295-302. 
+*	平井隆幸, 吉田早織, 叶健, 魚住龍史. ベクター形式を用いたグラフの作成と有用性. SASユーザー総会論文集 2015, 303-310. 
+*	矢田真城, 魚住龍史, 浜田知久馬. SASを用いたC-vineコピュラによる擬似乱数の生成. SASユーザー総会論文集 2015, 463-474. 
+*	魚住龍史, 吉田早織, 平井隆幸, 浜田知久馬. Kaplan-Meierプロット・Forestプロット作成の応用: グラフ出力範囲内・範囲外への数値出力. SASユーザー総会論文集 2016, 216-232. 
+*	魚住龍史, 矢田真城, 浜田知久馬. SASプロシジャを用いた生存時間データに対する例数設計の変革. SASユーザー総会論文集 2016, 250-267. 
+*	浜田知久馬, 魚住龍史. SASによる生存時間分布の予測「Death Noteの統計学」. SASユーザー総会論文集 2016, 297. 
+*	矢田真城, 魚住龍史, 浜田知久馬. 生存時間データに対するベイズ流例数設計. SASユーザー総会論文集 2016, 268-278. 
+*	魚住龍史, 浜田知久馬. バイオシミラー開発におけるアダプティブシームレスデザイン. 統計関連学会連合大会報告集 2016, 117. 
+*	魚住龍史, 矢田真城, 浜田知久馬. PHREGプロシジャにおける共変量調整解析に関連したオプション機能. SASユーザー総会論文集 2017, 237-248. 
+*	矢田真城, 魚住龍史, 浜田知久馬. 区分指数モデル及びフレイルティモデルに対するベイズ流生存時間解析. SASユーザー総会論文集 2017, 249-260. 
+*	平井隆幸, 魚住龍史. ODS Graphics Designerを用いたグラフの作成：SAS 9.4の機能を活用. SASユーザー総会論文集 2017, 130-148. 
+*	魚住龍史, 矢田真城, 山本倫生, 川口淳. SASによる傾向スコアマッチング. SASユーザー総会論文集 2017, 263-281. 
+*	魚住龍史, 矢田真城, 篠崎智大, 川口淳, 浜田知久馬. SASによる時間依存性ROC曲線とC統計量. SASユーザー総会論文集 2018, 6-24. 
+* 魚住龍史, 浜田知久馬. SASによる競合リスクを伴う生存時間解析の理解. SASユーザー総会論文集 2018, 75-90.
+*	矢田真城, 魚住龍史, 浜田知久馬. MCMCプロシジャによるコンパートメントモデルを用いた母集団薬物動態解析. SASユーザー総会論文集 2018, 37-50.
+*	今泉敦, 魚住龍史, 浜田知久馬. 競合リスクが存在する下での生存時間分布の検定法の性能評価. SASユーザー総会論文集 2018, 91-104.
+*	魚住龍史, 中川雄貴, 矢田真城. SASによる区間打ち切りデータを伴う生存関数の推定. SASユーザー総会論文集 2019, 3-17.  
+*	矢田真城, 魚住龍史. CAUSALMEDプロシジャによる媒介分析. SASユーザー総会論文集 2019, 29-50. 
+*	矢田真城, 魚住龍史. CAUSALGRAPHプロシジャによる因果効果の識別. SASユーザー総会論文集 2019, 51-72. 
+*	今泉敦, 魚住龍史. POWERプロシジャを用いた生存時間データのサンプルサイズ設計～数値計算アルゴリズムをひも解く～. SASユーザー総会論文集 2019, 87-97. 
