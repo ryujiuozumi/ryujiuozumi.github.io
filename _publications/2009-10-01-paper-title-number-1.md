@@ -1,6 +1,10 @@
 ---
+layout: archive
 title: "Publications"
-collection: publications
+permalink: /publications/
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
 *	**Uozumi R**, Hamada C. Interim decision-making strategies in adaptive designs for population selection using time-to-event endpoints. Journal of Biopharmaceutical Statistics. 27(1), 84-100, 2017. DOI: 10.1080/10543406.2016.1148714. [Article](https://www.tandfonline.com/doi/abs/10.1080/10543406.2016.1148714?journalCode=lbps20) 
