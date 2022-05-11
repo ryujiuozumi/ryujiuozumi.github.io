@@ -2,14 +2,18 @@
 title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+
+*	**Uozumi R**, Hamada C. Interim decision-making strategies in adaptive designs for population selection using time-to-event endpoints. Journal of Biopharmaceutical Statistics. 27(1), 84-100, 2017. DOI: 10.1080/10543406.2016.1148714.
+
+* **Uozumi R**, Hamada C. Adaptive seamless design for establishing pharmacokinetic and efficacy equivalence in developing biosimilars. Therapeutic Innovation & Regulatory Science. 51(6), 761-769, 2017. DOI: 10.1177/2168479017706526. 
+
+* **Uozumi R**, Yada S, Kawaguchi A. Patient recruitment strategies for adaptive enrichment designs with time-to-event endpoints. BMC Medical Research Methodology. 19(1):159, 2019. DOI: 10.1186/s12874-019-0800-2. 
+
+* **Uozumi R*, Hamada C. Utility-based interim decision rule planning in adaptive population selection designs with survival endpoints. Statistics in Biopharmaceutical Research. 12(3), 360-368, 2020. DOI: 10.1080/19466315.2019.1689844.
+
+* **Uozumi R**, Yada S, Maruo K, Kawaguchi A. Confidence intervals for the difference between two binomial proportions derived from logistic regression. Communications in Statistics - Simulation and Computation. (available online). DOI: 10.1080/03610918.2019.1710195. 
+
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
