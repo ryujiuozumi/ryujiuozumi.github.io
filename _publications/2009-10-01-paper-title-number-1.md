@@ -1,10 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Publications"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
 ---
 
-*	**Uozumi R**, Hamada C. Interim decision-making strategies in adaptive designs for population selection using time-to-event endpoints. Journal of Biopharmaceutical Statistics. 27(1), 84-100, 2017. DOI: 10.1080/10543406.2016.1148714.
+*	**Uozumi R**, Hamada C. Interim decision-making strategies in adaptive designs for population selection using time-to-event endpoints. Journal of Biopharmaceutical Statistics. 27(1), 84-100, 2017. DOI: 10.1080/10543406.2016.1148714. [Article](https://www.tandfonline.com/doi/abs/10.1080/10543406.2016.1148714?journalCode=lbps20) 
 
 * **Uozumi R**, Hamada C. Adaptive seamless design for establishing pharmacokinetic and efficacy equivalence in developing biosimilars. Therapeutic Innovation & Regulatory Science. 51(6), 761-769, 2017. DOI: 10.1177/2168479017706526. 
 
@@ -13,7 +12,4 @@ permalink: /publication/2009-10-01-paper-title-number-1
 * **Uozumi R*, Hamada C. Utility-based interim decision rule planning in adaptive population selection designs with survival endpoints. Statistics in Biopharmaceutical Research. 12(3), 360-368, 2020. DOI: 10.1080/19466315.2019.1689844.
 
 * **Uozumi R**, Yada S, Maruo K, Kawaguchi A. Confidence intervals for the difference between two binomial proportions derived from logistic regression. Communications in Statistics - Simulation and Computation. (available online). DOI: 10.1080/03610918.2019.1710195. 
-
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
