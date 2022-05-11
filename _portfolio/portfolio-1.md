@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks (JP)"
+title: "Publications (JP)"
 permalink: /portfolio/
 author_profile: true
 redirect_from:
