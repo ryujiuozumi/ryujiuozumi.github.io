@@ -7,12 +7,13 @@ redirect_from:
   - /resume
 ---
 
-2020+
-* **Uozumi R**, Yada S, Maruo K, Kawaguchi A. Confidence intervals for the difference between two binomial proportions derived from logistic regression. Communications in Statistics - Simulation and Computation. (available online). DOI: 10.1080/03610918.2019.1710195. 
+2022
+* **Uozumi R**, Yada S, Maruo K, Kawaguchi A. Confidence intervals for the difference between two binomial proportions derived from logistic regression. Communications in Statistics - Simulation and Computation. 51(6), 3223-3236, 2022. DOI: 10.1080/03610918.2019.1710195. 
 
-2019
+2020
 * **Uozumi R**, Hamada C. Utility-based interim decision rule planning in adaptive population selection designs with survival endpoints. Statistics in Biopharmaceutical Research. 12(3), 360-368, 2020. DOI: 10.1080/19466315.2019.1689844.
 
+2019
 * **Uozumi R**, Yada S, Kawaguchi A. Patient recruitment strategies for adaptive enrichment designs with time-to-event endpoints. BMC Medical Research Methodology. 19(1):159, 2019. DOI: 10.1186/s12874-019-0800-2. 
 
 2017
