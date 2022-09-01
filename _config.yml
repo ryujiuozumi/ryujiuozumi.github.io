@@ -81,7 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Ryuji Uozumi"
-  avatar           : "profile.png"
+#  avatar           : "profile.png"
+  avatar           : "profile_20220901.jpg"
   bio              : "Stanford University / Kyoto University"
   location         : "Palo Alto, CA"
   employer         :
