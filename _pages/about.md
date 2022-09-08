@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at Kyoto University. I am a Visiting Scholar at Stanford University. I do both original statistical research and applied research. 
+Currently, I am working for Stanford University as a Visiting Scholar. I am also working for Kyoto University as an Assistant Professor. I do both original statistical research and applied research. Moreover, I have significant experience with statistical consulting service from medical investigators.
 
 ## Research interests
 
