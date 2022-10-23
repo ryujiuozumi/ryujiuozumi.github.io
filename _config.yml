@@ -83,12 +83,12 @@ author:
   name             : "Ryuji Uozumi"
 #  avatar           : "profile.png"
   avatar           : "profile_20220901.jpg"
-  bio              : "Stanford University / Kyoto University"
-  location         : "Palo Alto, CA"
+  bio              : "Tokyo Institute of Technology"
+  location         : "Tokyo, Japan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "uozumi.r.ab@m.titech.ac.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
