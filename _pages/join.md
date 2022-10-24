@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /year-archive/
-title: "Blog posts"
+permalink: /join/
+title: "Join us"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
