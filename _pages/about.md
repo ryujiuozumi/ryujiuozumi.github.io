@@ -13,7 +13,7 @@ Ryuji Uozumi, Ph.D. is an Associate Professor in the [Department of Industrial E
 
 ## Research interests
 
-
+* Biostatistic
 * Design and Analysis of Clinical Trials
 * Survival Analysis
 * Causal Inference
