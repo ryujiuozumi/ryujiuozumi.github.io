@@ -83,7 +83,8 @@ author:
   name             : "Ryuji Uozumi"
 #  avatar           : "profile.png"
   avatar           : "profile_20220901.jpg"
-  bio              : "Tokyo Institute of Technology"
+  bio              : "Associate Professor"
+                      "Tokyo Institute of Technology"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
