@@ -16,7 +16,10 @@ main:
 #    url: /teaching/    
             
   - title: "Join us"
-    url: /year-archive/
+    url: /join/
         
+#  - title: "Blog posts"
+#    url: /year-archive/
+
   - title: "Guide"
     url: /markdown/
