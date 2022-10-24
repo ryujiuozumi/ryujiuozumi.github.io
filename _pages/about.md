@@ -26,9 +26,9 @@ Ryuji Uozumi, Ph.D. is an Associate Professor in the [Department of Industrial E
 
 ## Work experience
 
-* Research Assistant Professor, Kyoto University Hospital, 2014-2016
-* Assistant Professor, Kyoto University Hospital, 2016-2018
-* Senior Assistant Professor, Kyoto University Hospital, 2018-2022
-* Visiting Scholar, Stanford University, 2021-2022
-* Associate Professor, Tokyo Institute of Technology, 2022-Present
+* Research Assistant Professor, Department of Biomedical Statistics and Bioinformatics, Kyoto University, 2014-2016
+* Assistant Professor, Department of Biomedical Statistics and Bioinformatics, Kyoto University, 2016-2018
+* Senior Assistant Professor, Department of Biomedical Statistics and Bioinformatics, Kyoto University, 2018-2022
+* Visiting Scholar, Department of Biomedical Data Science, Stanford University, 2021-2022
+* Associate Professor, Department of Industrial Engineering and Economics, Tokyo Institute of Technology, 2022-Present
  
