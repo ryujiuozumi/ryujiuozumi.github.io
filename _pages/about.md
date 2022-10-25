@@ -12,7 +12,6 @@ Ryuji Uozumi, Ph.D. is an Associate Professor in the [Department of Industrial E
 
 ![Survivalplot](https://user-images.githubusercontent.com/105174630/197475719-d699e4d2-61d2-4406-8be7-a7db27e227f2.jpg)
 
-<img src="***https://user-images.githubusercontent.com/105174630/197475719-d699e4d2-61d2-4406-8be7-a7db27e227f2.jpg***" width="300">
 
 ## Research interests
 
@@ -20,6 +19,8 @@ Ryuji Uozumi, Ph.D. is an Associate Professor in the [Department of Industrial E
 * Design and Analysis of Clinical Trials
 * Survival Analysis
 * Causal Inference
+
+<img src="***https://user-images.githubusercontent.com/105174630/197475719-d699e4d2-61d2-4406-8be7-a7db27e227f2.jpg***" width="300">
 
 ## Education
 
