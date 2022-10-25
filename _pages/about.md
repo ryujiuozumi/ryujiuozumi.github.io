@@ -12,9 +12,6 @@ Ryuji Uozumi, Ph.D. is an Associate Professor in the [Department of Industrial E
 
 <img src="https://user-images.githubusercontent.com/105174630/197475719-d699e4d2-61d2-4406-8be7-a7db27e227f2.jpg" width="700px">
 
-<!--
- ![Survivalplot](https://user-images.githubusercontent.com/105174630/197475719-d699e4d2-61d2-4406-8be7-a7db27e227f2.jpg)> 
--->
 
 ## Research interests
 
