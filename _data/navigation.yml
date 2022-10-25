@@ -5,7 +5,7 @@ main:
 #    url: /cv/
     
  - title: "Bio (JP)"
-    url: /bio/
+    url: /teaching/
     
   - title: "Publications"
     url: /publications/
