@@ -1,18 +1,24 @@
 ---
 layout: archive
-permalink: /join/
-title: "Join us"
+title: "My Bio (Japanese)"
+permalink: /bio/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-For current students at Tokyo Tech
+{% include base_path %}
+
+学位
 ======
+* 2018　東京理科大学大学院工学研究科経営工学専攻博士後期課程修了　博士 (工学)
+* 2014　東京理科大学大学院工学研究科経営工学専攻修士課程修了　修士 (工学)
+* 2009　東京理科大学工学部第一部経営工学科卒業　学士 (工学)
 
-If you are a current Tokyo Tech student and are interested in working with me, send me an email. I will be happy to talk about projects. 
-
-For prospective students at Tokyo Tech
+略歴
 ======
-
-If you want to do a PhD at Tokyo Tech Biostat, send me an email with your CV attached. However, please keep in mind I am not on the admission committee and I have no say over who gets admitted to the department, but once you are admitted I would love to talk more. 
+* 2021-2022　Visiting Scholar, Department of Biomedical Data Science, Stanford University
+* 2020-2022　京都大学医学部附属病院　先端医療研究開発機構 クリニカルトライアルサイエンス部 (組織変更)　講師
+* 2018-2020　京都大学医学部附属病院　臨床研究総合センター データサイエンス部　講師
+* 2016-2018　京都大学医学部附属病院　臨床研究総合センター データサイエンス部　助教
+* 2014-2016　京都大学医学部附属病院　臨床研究総合センター データサイエンス部　特定助教
