@@ -1,11 +1,11 @@
 # main links links
 main:
 
- - title: "cv"
-    url: /cv/
-    
-# - title: "Bio (JP)"
+# - title: "cv"
 #    url: /cv/
+    
+ - title: "Bio (JP)"
+    url: /bio/
     
   - title: "Publications"
     url: /publications/
