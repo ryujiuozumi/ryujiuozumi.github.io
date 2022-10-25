@@ -4,8 +4,8 @@ main:
 # - title: "cv"
 #    url: /cv/
     
- - title: "Bio (JP)"
-    url: /bio/
+# - title: "Bio (JP)"
+#    url: /bio/
     
   - title: "Publications"
     url: /publications/
