@@ -1,7 +1,10 @@
 # main links links
 main:
- - title: "Bio (JP)"
+ - title: "cv"
     url: /cv/
+    
+# - title: "Bio (JP)"
+#    url: /cv/
     
   - title: "Publications"
     url: /publications/
