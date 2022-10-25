@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "My Bio (Japanese)"
-permalink: /bio/
+permalink: /cv/
 author_profile: true
 redirect_from:
-  - /bio
+  - /cv
 ---
 
 {% include base_path %}
