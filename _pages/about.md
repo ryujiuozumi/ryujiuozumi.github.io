@@ -10,7 +10,10 @@ redirect_from:
 
 Ryuji Uozumi, Ph.D. is an Associate Professor in the [Department of Industrial Engineering and Economics](https://educ.titech.ac.jp/iee/eng/) at Tokyo Institute of Technology. He is a statistician working on both original statistical research and applied research. Moreover, he has significant experience with statistical consulting service from medical investigators. He has published two books on survival analysis in biostatistics using SAS. 
 
-
+<img src="https://user-images.githubusercontent.com/105174630/197475719-d699e4d2-61d2-4406-8be7-a7db27e227f2.jpg" width="700px">
+<!--
+![Survivalplot](https://user-images.githubusercontent.com/105174630/197475719-d699e4d2-61d2-4406-8be7-a7db27e227f2.jpg)>
+-->
 
 ## Research interests
 
