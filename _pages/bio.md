@@ -17,6 +17,7 @@ redirect_from:
 
 ## 略歴
 
+* 2022-現在　東京工業大学 工学院 経営工学系　准教授
 * 2021-2022　Visiting Scholar, Department of Biomedical Data Science, Stanford University
 * 2020-2022　京都大学医学部附属病院 先端医療研究開発機構 クリニカルトライアルサイエンス部　講師
 * 2018-2020　京都大学医学部附属病院 臨床研究総合センター データサイエンス部　講師
