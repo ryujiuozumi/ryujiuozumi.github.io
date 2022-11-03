@@ -28,6 +28,8 @@ redirect_from:
 
 * Handa T, Tanizawa K, Oguma T, **Uozumi R**, Watanabe K, Tanabe N, Niwamoto T, Shima H, Mori R, Nobashi TW, Sakamoto R, Kubo T, Kurosaki A, Kishi K, Nakamoto Y, Hirai T. Novel artificial intelligence-based technology for chest computed tomography analysis of idiopathic pulmonary fibrosis. Annals of the American Thoracic Society. 19(3), 399-406, 2022. DOI: 10.1513/AnnalsATS.202101-044OC.
 
+*	Yao S, Yagi S, Ogawa E, Hirata M, Miyachi Y, Iwamura S, **Uozumi R**, Sugimoto T, Asahara T, Uemoto S, Hatano E. Dysbiosis and depletion of fecal organic acids correlate with the severity of rejection after rat liver transplantation. Transplant International. 35, 10728, 2022. DOI: 10.3389/ti.2022.10728.
+	
 *	Watanabe T, Yoshida T, Akizuki S, Yamanaka S, Nakao K, Fukuhara S, Asai K, **Uozumi R**, Bessho K. Nonexposed antiresorptive agent-related osteomyelitis of the jaw: a single-center cohort study. Journal of Bone and Mineral Metabolism. 40(4), 657-662, 2022. DOI: 10.1007/s00774-022-01329-3. 
 
 *	Mori Y, Kikuchi O, Horimatsu T, Hara H, Hironaka S, Kojima T, Kato K, Tsushima T, Ishihara R, Mukai K, **Uozumi R**, Tada H, Kasai H, Kawaguchi A, Muto M. Multicenter phase II study of trifluridine/tipiracil for esophageal squamous carcinoma refractory/intolerant to 5-fluorouracil, platinum compounds, or taxanes: the ECTAS study. Esophagus. 19(3), 444-451, 2022. DOI: 10.1007/s10388-021-00905-2.
