@@ -76,8 +76,7 @@ analytics:
   provider               :  "analytics-gtag" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :  "G-DB3BLEKB92"
-    # Google Analytics 4
-    googleAnalyticsID = "G-DB3BLEKB92"
+    googleAnalyticsID : "G-DB3BLEKB92"
 
 
 # Site Author
