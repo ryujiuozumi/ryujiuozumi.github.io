@@ -9,9 +9,6 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    {{ if .Site.Params.GoogleAnalyticsID }}
-    {{ include "analytics-providers/analytics-gtag.html" . }}
-    {{ end }}
   </head>
 
   <body>
