@@ -73,9 +73,11 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "analytics-gtag" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :  "G-DB3BLEKB92"
+    # Google Analytics 4
+    googleAnalyticsID = "G-DB3BLEKB92"
 
 
 # Site Author
