@@ -14,7 +14,8 @@ main:
 #    url: /talks/    
     
   - title: "Publications (JP)"
-    url: /portfolio/
+    url: /publications_jp/
+#    url: /portfolio/
 
 #  - title: "Teaching"
 #    url: /teaching/    
