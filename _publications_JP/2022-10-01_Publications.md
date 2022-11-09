@@ -1,8 +1,7 @@
-
 ---
 layout: archive
 title: "Publlications (Japanese)"
-permalink: /publication_jp/
+permalink: /publications_jp/
 author_profile: true
 redirect_from:
   - /resume
