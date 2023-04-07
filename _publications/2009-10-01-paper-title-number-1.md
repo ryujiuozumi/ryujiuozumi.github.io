@@ -10,7 +10,7 @@ redirect_from:
 2022
 * **Uozumi R**, Yada S, Maruo K, Kawaguchi A. Confidence intervals for the difference between two binomial proportions derived from logistic regression. Communications in Statistics - Simulation and Computation. 51(6), 3223-3236, 2022. DOI: 10.1080/03610918.2019.1710195. 
 
-*	Murata K, **Uozumi R**, Hashimoto M, Ebina K, Akashi K, Onishi A, Nagai K, Yoshikawa A, Katayama M, Son Y, Amuro H, Hara R, Yamamoto W, Watanabe R, Murakami K, Tanaka M, Ito H, Morinobu A, Matsuda S. The real-world effectiveness of anti-RANKL antibody denosumab on the clinical fracture prevention in patients with rheumatoid arthritis: the ANSWER cohort study. Modern Rheumatology. 32(4), 834-838, 2022. DOI: 10.1093/mr/roab043. 
+* Murata K, **Uozumi R**, Hashimoto M, Ebina K, Akashi K, Onishi A, Nagai K, Yoshikawa A, Katayama M, Son Y, Amuro H, Hara R, Yamamoto W, Watanabe R, Murakami K, Tanaka M, Ito H, Morinobu A, Matsuda S. The real-world effectiveness of anti-RANKL antibody denosumab on the clinical fracture prevention in patients with rheumatoid arthritis: the ANSWER cohort study. Modern Rheumatology. 32(4), 834-838, 2022. DOI: 10.1093/mr/roab043. 
 
 * Akiyama N, **Uozumi R**, Akiyama T, Koeda K, Shiroiwa T, Ogasawara K. Choking injuries: Associated factors and error producing conditions among acute hospital patients in Japan.  PLoS One. 17(4), e0267430, 2022. DOI: 10.1371/journal.pone.0267430.
 
@@ -28,11 +28,17 @@ redirect_from:
 
 * Handa T, Tanizawa K, Oguma T, **Uozumi R**, Watanabe K, Tanabe N, Niwamoto T, Shima H, Mori R, Nobashi TW, Sakamoto R, Kubo T, Kurosaki A, Kishi K, Nakamoto Y, Hirai T. Novel artificial intelligence-based technology for chest computed tomography analysis of idiopathic pulmonary fibrosis. Annals of the American Thoracic Society. 19(3), 399-406, 2022. DOI: 10.1513/AnnalsATS.202101-044OC.
 
-*	Yao S, Yagi S, Ogawa E, Hirata M, Miyachi Y, Iwamura S, **Uozumi R**, Sugimoto T, Asahara T, Uemoto S, Hatano E. Dysbiosis and depletion of fecal organic acids correlate with the severity of rejection after rat liver transplantation. Transplant International. 35, 10728, 2022. DOI: 10.3389/ti.2022.10728.
-	
-*	Watanabe T, Yoshida T, Akizuki S, Yamanaka S, Nakao K, Fukuhara S, Asai K, **Uozumi R**, Bessho K. Nonexposed antiresorptive agent-related osteomyelitis of the jaw: a single-center cohort study. Journal of Bone and Mineral Metabolism. 40(4), 657-662, 2022. DOI: 10.1007/s00774-022-01329-3. 
+* Takada M, Yoshimura M, Kotake T, Kawaguchi K, **Uozumi R**, Kataoka M, Kato H, Yoshibayashi H, Suwa H, Tsuji W, Yamashiro H, Suzuki E, Torii M, Yamada Y, Kataoka T, Ishiguro H, Morita S, Toi M. Phase Ib/II study of nivolumab combined with palliative radiation therapy for bone metastasis in patients with HER2-negative metastatic breast cancer. Scientific Reports. 12(1), 22397, 2022. DOI: 10.1038/s41598-022-27048-3. 
 
-*	Mori Y, Kikuchi O, Horimatsu T, Hara H, Hironaka S, Kojima T, Kato K, Tsushima T, Ishihara R, Mukai K, **Uozumi R**, Tada H, Kasai H, Kawaguchi A, Muto M. Multicenter phase II study of trifluridine/tipiracil for esophageal squamous carcinoma refractory/intolerant to 5-fluorouracil, platinum compounds, or taxanes: the ECTAS study. Esophagus. 19(3), 444-451, 2022. DOI: 10.1007/s10388-021-00905-2.
+* Yao S, Yagi S, Ogawa E, Hirata M, Miyachi Y, Iwamura S, **Uozumi R**, Sugimoto T, Asahara T, Uemoto S, Hatano E. Dysbiosis and depletion of fecal organic acids correlate with the severity of rejection after rat liver transplantation. Transplant International. 35, 10728, 2022. DOI: 10.3389/ti.2022.10728.
+	
+* Watanabe T, Yoshida T, Akizuki S, Yamanaka S, Nakao K, Fukuhara S, Asai K, **Uozumi R**, Bessho K. Nonexposed antiresorptive agent-related osteomyelitis of the jaw: a single-center cohort study. Journal of Bone and Mineral Metabolism. 40(4), 657-662, 2022. DOI: 10.1007/s00774-022-01329-3. 
+
+* Imamura K, Izumi Y, Nagai M, Nishiyama K, Watanabe Y, Hanajima R, Egawa N, Ayaki T, Oki R, Fujita K, **Uozumi R**, Morinaga A, Hirohashi T, Fujii Y, Yamamoto T, Tatebe H, Tokuda T, Takahashi N, Morita S, Takahashi R, Inoue H. Safety and tolerability of bosutinib in patients with amyotrophic lateral sclerosis (iDReAM study): A multicentre, open-label, dose-escalation phase 1 trial. eClinicalMedicine. 53, 101707, 2022. DOI: 10.1016/j.eclinm.2022.101707. 
+	
+* Mori Y, Kikuchi O, Horimatsu T, Hara H, Hironaka S, Kojima T, Kato K, Tsushima T, Ishihara R, Mukai K, **Uozumi R**, Tada H, Kasai H, Kawaguchi A, Muto M. Multicenter phase II study of trifluridine/tipiracil for esophageal squamous carcinoma refractory/intolerant to 5-fluorouracil, platinum compounds, or taxanes: the ECTAS study. Esophagus. 19(3), 444-451, 2022. DOI: 10.1007/s10388-021-00905-2.
+
+* Goto T, Kimura H, Yoshino T, Sawada A, Akamatsu S, Kobayashi T, Yamasaki T, Tazawa S, Fujimoto M, Hidaka Y, **Uozumi R**, Morita S, Ogawa O, Inoue T. Efficacy and Safety of Brazilian Green Propolis in Biochemically Recurrent Prostate Cancer after Radical Prostatectomy: A Single-Arm Phase II Study. International Journal of Translational Medicine. 2(4), 618-632, 2022. DOI: 10.3390/ijtm2040047. 
 
 
 2021
@@ -61,6 +67,8 @@ redirect_from:
 *	Watanabe T, Asai K, Fukuhara S, **Uozumi R**, Bessho K. Effectiveness of surgery and hyperbaric oxygen for antiresorptive agent-related osteonecrosis of the jaw: A subgroup analysis by disease stage. PLoS One. 16(1), e0244859129, 2021. DOI: 10.1371/journal.pone.0244859.
 
 *	Murashima-Suginami A, Kiso H, Tokita Y, Mihara E, Nambu Y, **Uozumi R**, Tabata Y, Bessho K, Takagi J, Sugai M, Takahashi K. Anti-USAG-1 therapy for tooth regeneration through enhanced BMP signaling. Science Advances. 7(7), eabf1798, 2021. DOI: 10.1126/sciadv.abf1798.
+
+*	Funada S, Watanabe N, Goto T, Negoro H, Akamatsu S, **Uozumi R**, Kishimoto S, Ichioka K, Segawa T, Furukawa TA, Ogawa O. Clinical Feasibility and Acceptability of Adding Cognitive Behavioral Therapy to Pharmacotherapy for Drug-resistant Overactive Bladder in Women: A Single Arm Pilot Trial. Lower Urinary Tract Symptoms (LUTS). 13(1), 69-78, 2021. DOI: 10.1111/luts.12333. 
 
 * Mishima S, Takahashi K, Kiso H, Murashima-Suginami A, Tokita Y, Jo J, **Uozumi R**, Nambu Y, Huang B, Harada H, Komori T, Sugai M, Tabata Y, Bessho K. Local application of Usag-1 siRNA can promote tooth regeneration in Runx2-deficient mice. Scientific Reports. 11, 13674, 2021. DOI: 10.1038/s41598-021-93256-y. 
 
@@ -93,8 +101,6 @@ redirect_from:
 *	Yao S, Kaido T, **Uozumi R**, Hirata M, Iwamura S, Miyachi Y, Macshut M, Sharshar M, Yagi S, Uemoto S. Diagnostic potential of presepsin in bacterial infection following hepato-biliary-pancreatic surgery: A prospective observational study. Journal of Hepato-Biliary-Pancreatic Sciences. 27(10), 756-766, 2020. DOI: 10.1002/jhbp.802. 
 
 *	Kawazoe H, Mori N, Ido S, **Uozumi R**, Tsuneoka K, Takeuchi A, Matsuo M, Yamauchi M, Nakai M, Sumikawa S, Nakamura T, Yakushijin Y. Liquid formulation of gemcitabine increases venous pain in patients with cancer: A retrospective study. Clinical Therapeutics. 42(4), 712-719, 2020. DOI: 10.1016/j.clinthera.2020.02.010. 
-
-*	Funada S, Watanabe N, Goto T, Negoro H, Akamatsu S, **Uozumi R**, Kishimoto S, Ichioka K, Segawa T, Furukawa TA, Ogawa O. Clinical Feasibility and Acceptability of Adding Cognitive Behavioral Therapy to Pharmacotherapy for Drug-resistant Overactive Bladder in Women: A Single Arm Pilot Trial. Lower Urinary Tract Symptoms (LUTS). 13(1), 69-78, 2021. DOI: 10.1111/luts.12333. 
 
 *	Funada S, Watanabe N, Goto T, Negoro H, Akamatsu S, Ueno K, **Uozumi R**, Ichioka K, Segawa T, Akechi T, Furukawa TA, Ogawa O. Cognitive behavioral therapy for overactive bladder in women: study protocol for a randomized controlled trial. BMC Urology. 20(1):129, 2020. DOI: 10.1186/s12894-020-00697-0. 
 
