@@ -7,6 +7,13 @@ redirect_from:
   - /resume
 ---
 
+2023
+* Nasu I, Kondo M, **Uozumi R**, Takada S, Nawata S, Iihara H, Okumura Y, Takemoto M, Mino K, Sasaki T, Hirose C, Aomori T, Shimano R, Maeno K, Oizumi S, Kusumoto S, Ohno Y, Ikemura S, Takai D, Hara A, Kawazoe H, Nakamura T. Prognostic model of baseline medications plus neutrophil-to-lymphocyte ratio in patients with advanced non-small-cell lung cancer receiving first-line immune-platinum regimen: A multicenter retrospective study. Journal of Cancer. 14(5), 676-688, 2023. DOI: 10.7150/jca.80517.
+
+* Onishi A, Torii M, Hidaka Y, **Uozumi R**, Oshima Y, Tanaka H, Onizawa H, Fujii T, Murata K, Murakami K, Tanaka M, Matsuda S, Morinobu A, Arai H, Hashimoto M. Efficacy of personalized exercise program on physical function in elderly patients with rheumatoid arthritis at high risk for sarcopenia: study protocol for a randomized controlled trial. BMC Musculoskeletal Disorders. 24(1), 280, 2023. DOI: 10.1186/s12891-023-06185-4.
+
+* Yao S, Yagi S, Hirata M, Miyachi Y, Ogawa E, **Uozumi R**, Sugimoto T, Asahara T, Uemoto S, Hatano E. Chronological changes in the gut microbiota and intestinal environment in recipients and donors of living donor liver transplantation. Journal of Hepato-Biliary-Pancreatic Sciences. 30(4), 439-452, 2023. DOI: 10.1002/jhbp.1241.
+
 2022
 * **Uozumi R**, Yada S, Maruo K, Kawaguchi A. Confidence intervals for the difference between two binomial proportions derived from logistic regression. Communications in Statistics - Simulation and Computation. 51(6), 3223-3236, 2022. DOI: 10.1080/03610918.2019.1710195. 
 
