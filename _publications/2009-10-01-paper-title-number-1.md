@@ -110,7 +110,7 @@ redirect_from:
 
 *	Hattori Y, Kono Y, Itoh S, Inoue T, Urata Y, Kawa Y, Tohnai R, Kumagai T, Nishino K, **Uozumi R**, Morita S, Negoro S, Imamura F, Satouchi M. A phase I/II study of weekly nab-paclitaxel plus cisplatin in chemotherapy-naïve patients with advanced non-small-cell lung cancer. BMC Cancer. 20(1):115, 2020. DOI: 10.1186/s12885-020-6588-y. 
 
-*	Tsuji H, Nakashima R, Hosono Y, Imura Y, Yagita M, Yoshifuji H, Hirata S, Nojima T, Sugiyama E, Hatta K, Taguchi Y, Katayama M, Tanizawa K, Handa T, **Uozumi R**, Akizuki S, Murakami K, Hashimoto M, Tanaka M, Ohmura K, Mimori T. A Multicenter Prospective Study of the Efficacy and Safety of Combined Immunosuppressive Therapy with High-Dose Glucocorticoid, Tacrolimus, and Cyclophosphamide in Interstitial Lung Diseases Accompanied by Anti-Melanoma Differentiation-Associated Gene 5-Positive Dermatomyositis. Arthritis & Rheumatology. 72(3), 488-498, 2020. DOI: 10.1002/art.41105.
+*	Tsuji H, Nakashima R, Hosono Y, Imura Y, Yagita M, Yoshifuji H, Hirata S, Nojima T, Sugiyama E, Hatta K, Taguchi Y, Katayama M, Tanizawa K, Handa T, **Uozumi R**, Akizuki S, Murakami K, Hashimoto M, Tanaka M, Ohmura K, Mimori T. Multicenter Prospective Study of the Efficacy and Safety of Combined Immunosuppressive Therapy with High-Dose Glucocorticoid, Tacrolimus, and Cyclophosphamide in Interstitial Lung Diseases Accompanied by Anti-Melanoma Differentiation-Associated Gene 5-Positive Dermatomyositis. Arthritis & Rheumatology. 72(3), 488-498, 2020. DOI: 10.1002/art.41105.
 
 2019
 * **Uozumi R**, Yada S, Kawaguchi A. Patient recruitment strategies for adaptive enrichment designs with time-to-event endpoints. BMC Medical Research Methodology. 19(1):159, 2019. DOI: 10.1186/s12874-019-0800-2. 
