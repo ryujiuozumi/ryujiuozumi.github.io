@@ -181,7 +181,7 @@ redirect_from:
 
 *	Hoshino N, Kawada K, Hida K, Goto S, **Uozumi R**, Hasegawa S, Sugihara K, Sakai Y. Impact of venous invasion on the efficacy of adjuvant chemotherapy in elderly patients with stage III colorectal cancer. Medical Oncology. 34(8):138, 2017. DOI: 10.1007/s12032-017-0996-0. 
 
-*	Tateya I, Koh YW, Tsang RK, Hong SS, **Uozumi R**, Kishimoto Y, Sugimoto T, Holsinger FC. A Flexible next-generation robotic surgical system for transoral endoscopic hypopharyngectomy: a comparative preclinical study. Head & Neck. 40(1), 16-23, 2018. DOI: 10.1002/hed.24868. 
+*	Tateya I, Koh YW, Tsang RK, Hong SS, **Uozumi R**, Kishimoto Y, Sugimoto T, Holsinger FC. Flexible next-generation robotic surgical system for transoral endoscopic hypopharyngectomy: a comparative preclinical study. Head & Neck. 40(1), 16-23, 2018. DOI: 10.1002/hed.24868. 
 
 *	Nagami S, Oku Y, Yagi N, Sato S, **Uozumi R**, Morita S, Yamagata Y, Kayashita J, Tanimura K, Sato A, Takahashi R, Muro S. Breathing-swallowing discoordination is associated with frequent exacerbations of COPD. BMJ Open Respiratory Research. 4, e000202, 2017. DOI: 10.1136/bmjresp-2017-000202.
 
