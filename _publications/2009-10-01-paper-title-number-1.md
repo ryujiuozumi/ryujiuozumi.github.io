@@ -76,7 +76,7 @@ redirect_from:
 
 *	Iima M, Kataoka M, Honda M, Ohashi A, Ohno-Kishimoto A, Ota R, **Uozumi R**, Urushibata Y, Feiweier T, Toi M, Nakamoto Y. The Rate of Apparent Diffusion Coefficient Change With Diffusion Time on Breast Diffusion-Weighted Imaging Depends on Breast Tumor Types and Molecular Prognostic Biomarker Expression. Investigative Radiology. 56(8), 501-508, 2021. DOI: 10.1097/RLI.0000000000000766. 
 
-* Kondo K, Mizuta M, Kawai Y, Kojima T, Abe C, Tanaka R, Shiromoto O, **Uozumi R**, Kishimoto Y, Tateya I, Omori K, Haji T. Development and validation of the Japanese version of the Consensus Auditory-Perceptual Evaluation of Voice (CAPE-V). Journal of Speech, Language, and Hearing Research. 64(12), 4754-4761, 2021. DOI: 10.1044/2021_JSLHR-21-00269. 
+* Kondo K, Mizuta M, Kawai Y, Kojima T, Abe C, Tanaka R, Shiromoto O, **Uozumi R**, Kishimoto Y, Tateya I, Omori K, Haji T. Development and validation of the Japanese version of the Consensus Auditory-Perceptual Evaluation of Voice. Journal of Speech, Language, and Hearing Research. 64(12), 4754-4761, 2021. DOI: 10.1044/2021_JSLHR-21-00269. 
 
 *	Nomura T, Sumi E, Egawa G, Nakajima S, Toichi E, Inoue N, Shibuya M, Okamoto N, Mitsuishi T, **Uozumi R**, Tada H, Nakagawa T, Kusuba N, Okuno A, Shimizuhira C, Ishikawa M, Tanaka S, Hagiwara M, Kabashima K. Safety and efficacy of the cyclin dependent kinase 9 (CDK9) inhibitor FIT039 for verruca vulgaris: a placebo-controlled, phase I/II randomized controlled trial. JID Innovations. 1(3), 100026, 2021. DOI: 10.1016/j.xjidi.2021.100026.
 
@@ -160,7 +160,7 @@ redirect_from:
 
 *	Tsuji T, Nakamura R, Katsuno T, Kishimoto Y, Suehiro A, Yamashita M, **Uozumi R**, Nakamura T, Tateya I, Omori K. Long-term preservation of planar cell polarity in reversed tracheal epithelium. Respiratory Research. 19(1), 22, 2018. DOI: 10.1186/s12931-018-0726-y. 
 
-*	Nomura Y, Takei N, Ishii T, Takada K, Amitani Y, Koganezawa H, Fukuhara S, Asai K, **Uozumi R**, Bessho K. Factors that effect oral care outcomes for institutionalized elderly. International Journal of Dentistry. 2018, 2478408, 2018. DOI: 10.1155/2018/2478408. 
+*	Nomura Y, Takei N, Ishii T, Takada K, Amitani Y, Koganezawa H, Fukuhara S, Asai K, **Uozumi R**, Bessho K. Factors that affect oral care outcomes for institutionalized elderly. International Journal of Dentistry. 2018, 2478408, 2018. DOI: 10.1155/2018/2478408. 
 
 *	Sugie T, Suzuki E, Yamauchi A, Yamagami K, Masuda N, Gondo N, Sumi E, Ikeda T, Tada H, **Uozumi R**, Kanao S, Tanaka Y, Hamazaki Y, Minato N, Toi M. Combined effects of neoadjuvant letrozole and zoledronic acid on γδT cells in postmenopausal women with early-stage breast cancer. The Breast. 38, 114-119, 2018. DOI: 10.1016/j.breast.2017.12.017.  
 
@@ -173,7 +173,7 @@ redirect_from:
 
 * **Uozumi R**, Hamada C. Adaptive seamless design for establishing pharmacokinetic and efficacy equivalence in developing biosimilars. Therapeutic Innovation & Regulatory Science. 51(6), 761-769, 2017. DOI: 10.1177/2168479017706526. 
 
-*	Yamashita Y, **Uozumi R**, Hamatani Y, Esato M, Chun YH, Tsuji H, Wada H, Hasegawa K, Ogawa H, Abe M, Morita S, Akao M. Current status and outcomes of direct oral anticoagulant use in patients with atrial fibrillation in the real-world: The Fushimi AF Registry. Circulation Journal. 81(9), 1278-1285, 2017. DOI: 10.1253/circj.CJ-16-1337. 
+*	Yamashita Y, **Uozumi R**, Hamatani Y, Esato M, Chun YH, Tsuji H, Wada H, Hasegawa K, Ogawa H, Abe M, Morita S, Akao M. Current status and outcomes of direct oral anticoagulant use in real-world atrial fibrillation patients: Fushimi AF Registry. Circulation Journal. 81(9), 1278-1285, 2017. DOI: 10.1253/circj.CJ-16-1337. 
 
 *	Ishiguro T, Kagiyama N, **Uozumi R**, Odashima K, Takaku Y, Kurashima K, Morita S, Takayanagi N. Clinical Characteristics of Influenza-Associated Pneumonia of Adults: Clinical Features and Factors Contributing to Severity and Mortality. Yale Journal of Biology and Medicine. 90(2), 165-181, 2017. 
 
