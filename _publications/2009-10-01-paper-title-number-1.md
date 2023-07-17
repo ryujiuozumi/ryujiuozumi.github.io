@@ -175,7 +175,7 @@ redirect_from:
 
 *	Yamashita Y, **Uozumi R**, Hamatani Y, Esato M, Chun YH, Tsuji H, Wada H, Hasegawa K, Ogawa H, Abe M, Morita S, Akao M. Current status and outcomes of direct oral anticoagulant use in patients with atrial fibrillation in the real-world: The Fushimi AF Registry. Circulation Journal. 81(9), 1278-1285, 2017. DOI: 10.1253/circj.CJ-16-1337. 
 
-*	Ishiguro T, Kagiyama N, **Uozumi R**, Odashima K, Takaku Y, Kurashima K, Morita S, Takayanagi N. Clinical Characteristics of Influenza Virus-Associated Pneumonia of Adults: Clinical Features and Factors Contributing to Severity and Mortality. Yale Journal of Biology and Medicine. 90(2), 165-181, 2017. 
+*	Ishiguro T, Kagiyama N, **Uozumi R**, Odashima K, Takaku Y, Kurashima K, Morita S, Takayanagi N. Clinical Characteristics of Influenza-Associated Pneumonia of Adults: Clinical Features and Factors Contributing to Severity and Mortality. Yale Journal of Biology and Medicine. 90(2), 165-181, 2017. 
 
 *	Goto S, Hasegawa S, Hida K, **Uozumi R**, Kanemitsu Y, Watanabe T, Sugihara K, Sakai Y. Multicenter analysis of impact of anastomotic leakage on long-term oncological outcomes after curative resection of colon cancer. Surgery. 162(2), 317-324, 2017. DOI: 10.1016/j.surg.2017.03.005.
 
